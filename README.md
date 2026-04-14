@@ -5,7 +5,7 @@
 </a>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=github,git,mysql,eclipse,java,cs,dotnet,html,css,php,flutter,notion,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,mysql,eclipse,java,cs,dotnet,html,css,php,flutter,dart,notion,)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)

@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=98a869&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg" style="display: block; text-align: center;">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=98A869&multiline=true&repeat=false&width=435&height=120&lines=Hello%2C+I'm+V%C3%ADtor+Perassi.;Full-Stack+APP%2FWeb+Developer." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=98A869&multiline=true&repeat=false&width=435&height=120&lines=Hello%2C+I'm+V%C3%ADtor+Perassi.;Full-Stack+APP%2FWeb+Developer." alt="Typing SVG" height="35"/>
 </a>
 
 ### Main skills
